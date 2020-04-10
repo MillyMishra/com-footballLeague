@@ -8,5 +8,5 @@
  
  
  # Project build instructions
-  1.Checkout the project using git repository URL 
+  1.Checkout the project using git repository URL https://github.com/MillyMishra/com-footballLeague.git
   2.Import the project into Eclipse by selecting option "Importing Existing project into workspace"(File > Import > Existing Project into Workspace).
